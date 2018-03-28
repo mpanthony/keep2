@@ -1,0 +1,22 @@
+{
+  "name": "keep2",
+  "version": "1.0.0",
+  "description": "node implementation of Wizard's Keep",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpanthony/keep2.git"
+  },
+  "author": "Mike Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpanthony/keep2/issues"
+  },
+  "homepage": "https://github.com/mpanthony/keep2#readme",
+  "dependencies": {
+    "yaml-js": "^0.2.3"
+  }
+}
