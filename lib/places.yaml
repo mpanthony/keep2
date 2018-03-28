@@ -1,0 +1,20 @@
+
+- id: 1
+  title: In the woods
+  description: You are standing in the woods.  There is a worn footpath leading both north and south from here.
+  adjacent:
+    north: 3
+    south: 2
+
+- id: 2
+  title: By the pond
+  description: You are on a flat rock near a copse, overlooking a serene pond.
+  adjacent:
+    north: 1
+
+- id: 3
+  title: By the bridge
+  description: You are standing in front of a rickety wooden bridge spanning a moat filled with dark, loathesome water.  On the other side is a castle, eerily quiet except for the occasional bird flutterying from one of its empty black windows.
+  adjacent:
+    north: 4
+    south: 1

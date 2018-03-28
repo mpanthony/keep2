@@ -1,0 +1,21 @@
+- id: sword
+  name: sword
+  description: The sword is old with signs of rust, yet its edge remains keen.
+  initialDescription: You see a sword lying in the grass, battered and rusty after years of neglect.
+ 
+- id: lamp
+  name: lamp
+  description: It is a battery-operated lamp with a single red on/off switch.  On the bottom of the lamp you see the letters A.C.M.E.
+  initialDescription: You see a battery-operated lamp.
+ 
+- id: parchment
+  name: parchment
+  description: It is a yellowed scrap of parchment with frayed edges.  There are characters written on it in faded ink.
+  initialDescription: You see a scrap of parchment caught on a tree branch, fluttering in the breeze.
+ 
+- id: chest
+  name: chest
+  description: The chest is made of a dark brown wood reinforced with iron bands, with a metal lock.  It is not very big.
+  initialDescription: A small wooden chest with iron bands sits near the tree.
+  capacity: 100
+  containmentType: container
